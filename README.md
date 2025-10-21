@@ -1,2 +1,2 @@
 # portfoliofaisal
-potrfolio saya
+portfolio saya
